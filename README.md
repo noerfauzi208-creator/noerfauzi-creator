@@ -47,7 +47,7 @@
 
 ---
 
-## 🏆 **Piala GitHub**
+## 🏆 **my hoby**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=noerfauzi208-creator&theme=algolia&margin-w=10" />
 </p>

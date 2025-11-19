@@ -25,7 +25,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-0F766E?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1E3A8A?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-CA8A04?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -49,7 +48,13 @@
 
 ## 🏆 **my hoby**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noerfauzi208-creator&theme=algolia&margin-w=10" />
+  <ul>
+    <li>futsal</li>
+    <li>baca kitab</li>
+    <li>pemograman</li>
+    <li>ngoding</li>
+    <li>olahraga</li>
+  </ul>
 </p>
 
 ---
